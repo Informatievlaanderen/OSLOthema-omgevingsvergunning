@@ -28,7 +28,19 @@
         {
         "naam": "Verslag thematische werkgroep 1 - 6 november 2023",
         "waarde": "Verslag Thematische werkgroep 1 Omgevingsvergunning 2023-11-06.pdf"
-        }
+        },
+        {
+        "naam": "Verslag thematische werkgroep 2 - 11 december 2023",
+        "waarde": "Verslag Thematische werkgroep 2 Omgevingsvergunning 2023-12-11.pdf"
+        },
+        {
+        "naam": "Verslag thematische werkgroep 3 - 15 januari 2024",
+        "waarde": "Verslag Thematische werkgroep 3 Omgevingsvergunning 2024-1-15.pdf"
+        },
+        {
+          "naam": "Verslag thematische werkgroep 4 - 19 februari 2024",
+          "waarde": "Verslag Thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
+          }
     ],
     "presentaties": [
         {
@@ -38,7 +50,19 @@
         {
       "naam": "Presentatie thematische werkgroep 1 - 6 november 2023",
       "waarde": "Presentatie Thematische werkgroep 1 Omgevingsvergunning 2023-11-06.pdf"
-        }
+        },
+        {
+      "naam": "Presentatie thematische werkgroep 2 - 11 december 2023",
+      "waarde": "Presentatie thematische werkgroep 2 Omgevingsvergunning 2023-12-11.pdf"
+          },
+        {
+      "naam": "Presentatie thematische werkgroep 3 - 15 januari 2024",
+      "waarde": "Presentatie thematische werkgroep 3 Omgevingsvergunning 2024-1-15.pdf"
+          }
+          {
+      "naam": "Presentatie thematische werkgroep 4 - 19 januari 2023",
+      "waarde": "Presentatie thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
+                }
     ],
     "functioneel_toepassingsgebied": "Applicatieprofiel voor informatie over omgevingsvergunningen",
     "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
