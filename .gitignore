@@ -1,2 +1,6 @@
 .vscode/
 *.xls*
+report_OSLO-Omgevingsvergunning-master.csv
+report_OSLO-Omgevingsvergunning-master.html
+target.zip
+target/

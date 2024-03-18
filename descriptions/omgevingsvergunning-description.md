@@ -1,0 +1,1 @@
+Het OSLO-traject "Omgevingsvergunning" moet helpen om samen te werken met verschillende belanghebbenden om de gegevensstromen van omgevingsvergunningen semantisch te modelleren en de structuur van de gegevens te standaardiseren.
