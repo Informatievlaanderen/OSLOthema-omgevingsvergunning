@@ -1,3 +1,15 @@
-YYYY-MM--DD
-  - Mijn aanpassing1
-  - Mijn aanpassing2
+2024-10-16
+* Correct link to standards registry
+* copy van AP gemaakt
+* specifieke config gemaakt
+* aanpassingen:
+    1. redefined verantwoordelijke verwijderd in alle subclassen van Rechtshandeling.
+    2. URI Document is foaf:Document
+    3. tijdsbestek is een vorm van een period of time daarom gemapt op URI http://purl.org/dc/terms/extent
+    4. eigenschap juridische kwalificatie: een generieke eigenschap met als range skos:Concept
+    5. range eigenschap document doen verwijzen naar de juiste klasse
+    6. eigenschap vindplaats gemapt op externe URI prov:atLocation
+    7. eigenschap verantwoordelijke generaliseerd
+    8. eigenschap voorwerp aangepast
+
+ 
