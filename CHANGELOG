@@ -11,10 +11,12 @@
     6. eigenschap vindplaats gemapt op externe URI prov:atLocation
     7. eigenschap verantwoordelijke generaliseerd
     8. eigenschap voorwerp aangepast
+    9. voeg ontbrekende eigenschap dossier toe
     
 * aanpassingen applicatieprofiel
     1. doorvoeren van de vocabularium omgevingsvergunning
     2. persoon.voornaam en persoon.alternatieveNaam uit applicatieprofiel omdat die niet op diagram staan
     3. Jurdisch Werk uit de visualisation subpackage op ignore true gezet.
     4. temporele informatie als DataTypes ipv betekenisvolle Business klassen.
+    5. voeg ontbrekende eigenschap dossier toe (stond op diagram)
  
