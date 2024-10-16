@@ -12,6 +12,7 @@
     7. eigenschap verantwoordelijke generaliseerd
     8. eigenschap voorwerp aangepast
     9. voeg ontbrekende eigenschap dossier toe
+    10. alignieer Juridische Categorie met AP.
     
 * aanpassingen applicatieprofiel
     1. doorvoeren van de vocabularium omgevingsvergunning
@@ -19,4 +20,5 @@
     3. Jurdisch Werk uit de visualisation subpackage op ignore true gezet.
     4. temporele informatie als DataTypes ipv betekenisvolle Business klassen.
     5. voeg ontbrekende eigenschap dossier toe (stond op diagram)
+    6. vervang langString door de nederlandstalige OSLO versie TaalString
  
