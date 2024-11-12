@@ -2,7 +2,7 @@
   "title": "Vocabularium Omgevingsvergunning",
   "category": "Vocabularium",
   "usage": "Aanbevolen (vrijwillig)",
-  "status": "kandidaat-standaard",
+  "status": "erkende-standaard",
   "descriptionFileName": "omgevingsvergunning-description.md",
   "responsibleOrganisation": [
     {
@@ -10,7 +10,7 @@
       "resourceReference": "https://data.vlaanderen.be/doc/organisatie/OVO003323"
     }
   ],
-  "publicationDate": "2024-03-18",
+  "publicationDate": "2024-11-07",
   "specificationDocuments": [
     {
       "name": "Omgevingsvergunning Vocabularium",
@@ -67,7 +67,7 @@
     }
   ],
   "dateOfRegistration": "2023-08-31",
-  "dateOfAcknowledgementByWorkingGroup": "TBD",
+  "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
   "dateOfAcknowledgementBySteeringCommittee": "TBD",
   "repository": "OSLOthema-omgevingsvergunning",
   "datePublicReviewStart": "",

@@ -1,75 +1,75 @@
 {
-    "title": "Applicatieprofiel Omgevingsvergunning",
-    "category": "Applicatieprofiel",
-    "usage": "Aanbevolen (vrijwillig)",
-    "status": "kandidaat-standaard",
-    "descriptionFileName": "omgevingsvergunning-description.md",
-    "responsibleOrganisation": [
-      {
-        "name": "Departement Omgeving",
-        "resourceReference": "https://data.vlaanderen.be/doc/organisatie/OVO003323"
-      }
-    ],
-    "publicationDate": "2024-03-18",
-    "specificationDocuments": [
-      {
-        "name": "Omgevingsvergunning Applicatieprofiel",
-        "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/omgevingsvergunning"
-      }
-    ],
-    "documentation": [],
-    "reports": [
-      {
-        "name": "Verslag business werkgroep - 28 augustus 2023",
-        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/reports/Verslag Business werkgroep Omgevingsvergunning 2023-08-28.pdf"
-      },
-      {
-        "name": "Verslag thematische werkgroep 1 - 6 november 2023",
-        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/reports/Verslag Thematische werkgroep 1 Omgevingsvergunning 2023-11-06.pdf"
-      },
-      {
-        "name": "Verslag thematische werkgroep 2 - 11 december 2023",
-        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/reports/Verslag Thematische werkgroep 2 Omgevingsvergunning 2023-12-11.pdf"
-      },
-      {
-        "name": "Verslag thematische werkgroep 3 - 15 januari 2024",
-        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/reports/Verslag Thematische werkgroep 3 Omgevingsvergunning 2024-1-15.pdf"
-      },
-      {
-        "name": "Verslag thematische werkgroep 4 - 19 februari 2024",
-        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/reports/Verslag Thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
-      }
-    ],
-    "charter": {
-      "name": "Charter",
-      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/charter/Werkgroep charter OSLO_omgevingsvergunningen.pdf"
+  "title": "Applicatieprofiel Omgevingsvergunning",
+  "category": "Applicatieprofiel",
+  "usage": "Aanbevolen (vrijwillig)",
+  "status": "erkende-standaard",
+  "descriptionFileName": "omgevingsvergunning-description.md",
+  "responsibleOrganisation": [
+    {
+      "name": "Departement Omgeving",
+      "resourceReference": "https://data.vlaanderen.be/doc/organisatie/OVO003323"
+    }
+  ],
+  "publicationDate": "2024-11-07",
+  "specificationDocuments": [
+    {
+      "name": "Omgevingsvergunning Applicatieprofiel",
+      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/omgevingsvergunning"
+    }
+  ],
+  "documentation": [],
+  "reports": [
+    {
+      "name": "Verslag business werkgroep - 28 augustus 2023",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/reports/Verslag Business werkgroep Omgevingsvergunning 2023-08-28.pdf"
     },
-    "presentations": [
-      {
-        "name": "Presentatie business werkgroep - 28 augustus 2023",
-        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/presentations/Presentatie Business Werkgroep Omgevingsvergunning 2023-08-28.pdf"
-      },
-      {
-        "name": "Presentatie thematische werkgroep 1 - 6 november 2023",
-        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/presentations/Presentatie Thematische werkgroep 1 Omgevingsvergunning 2023-11-06.pdf"
-      },
-      {
-        "name": "Presentatie thematische werkgroep 2 - 11 december 2023",
-        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/presentations/Presentatie thematische werkgroep 2 Omgevingsvergunning 2023-12-11.pdf"
-      },
-      {
-        "name": "Presentatie thematische werkgroep 3 - 15 januari 2024",
-        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/presentations/Presentatie thematische werkgroep 3 Omgevingsvergunning 2024-1-15.pdf"
-      },
-      {
-        "name": "Presentatie thematische werkgroep 4 - 19 februari 2024",
-        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/presentations/Presentatie Thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
-      }
-    ],
-    "dateOfRegistration": "2023-08-31",
-    "dateOfAcknowledgementByWorkingGroup": "TBD",
-    "dateOfAcknowledgementBySteeringCommittee": "TBD",
-    "repository": "OSLOthema-omgevingsvergunning",
-    "datePublicReviewStart": "",
-    "endOfPublicationDate": ""
-  }
+    {
+      "name": "Verslag thematische werkgroep 1 - 6 november 2023",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/reports/Verslag Thematische werkgroep 1 Omgevingsvergunning 2023-11-06.pdf"
+    },
+    {
+      "name": "Verslag thematische werkgroep 2 - 11 december 2023",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/reports/Verslag Thematische werkgroep 2 Omgevingsvergunning 2023-12-11.pdf"
+    },
+    {
+      "name": "Verslag thematische werkgroep 3 - 15 januari 2024",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/reports/Verslag Thematische werkgroep 3 Omgevingsvergunning 2024-1-15.pdf"
+    },
+    {
+      "name": "Verslag thematische werkgroep 4 - 19 februari 2024",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/reports/Verslag Thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
+    }
+  ],
+  "charter": {
+    "name": "Charter",
+    "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/charter/Werkgroep charter OSLO_omgevingsvergunningen.pdf"
+  },
+  "presentations": [
+    {
+      "name": "Presentatie business werkgroep - 28 augustus 2023",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/presentations/Presentatie Business Werkgroep Omgevingsvergunning 2023-08-28.pdf"
+    },
+    {
+      "name": "Presentatie thematische werkgroep 1 - 6 november 2023",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/presentations/Presentatie Thematische werkgroep 1 Omgevingsvergunning 2023-11-06.pdf"
+    },
+    {
+      "name": "Presentatie thematische werkgroep 2 - 11 december 2023",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/presentations/Presentatie thematische werkgroep 2 Omgevingsvergunning 2023-12-11.pdf"
+    },
+    {
+      "name": "Presentatie thematische werkgroep 3 - 15 januari 2024",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/presentations/Presentatie thematische werkgroep 3 Omgevingsvergunning 2024-1-15.pdf"
+    },
+    {
+      "name": "Presentatie thematische werkgroep 4 - 19 februari 2024",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-omgevingsvergunning/standaardenregister/presentations/Presentatie Thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
+    }
+  ],
+  "dateOfRegistration": "2023-08-31",
+  "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
+  "dateOfAcknowledgementBySteeringCommittee": "TBD",
+  "repository": "OSLOthema-omgevingsvergunning",
+  "datePublicReviewStart": "",
+  "endOfPublicationDate": ""
+}
