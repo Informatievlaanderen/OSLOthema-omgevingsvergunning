@@ -1,6 +1,7 @@
-YYYY-MM--DD
-  - Mijn aanpassing1
-  - Mijn aanpassing2
+2024-11-14
+- Set type for Model:OSLO-Omgevingsvergunning:Beroepsmogelijkheid:aanwendingstermijn to 'Tijdsduur'
+- Set type for Model:OSLO-Omgevingsvergunning:Procedure:termijn to 'Tijdsduur'
+- Set type for Model:OSLO-Omgevingsvergunning:NormatieveBepaling:tijdsbestek to 'Tijdsduur'
 
 2024-09-16
 * Correct link to standards registry
