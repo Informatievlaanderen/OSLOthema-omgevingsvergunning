@@ -1,3 +1,6 @@
+2024-11-21
+- Update range for tijdsbestek for: Omgevingsvergunning:NormatieveBepaling:tijdsbestek and Omgevingsvergunning:Activiteit:tijdsbestek
+
 2024-11-14
 - Set type for Model:OSLO-Omgevingsvergunning:Beroepsmogelijkheid:aanwendingstermijn to 'Tijdsduur'
 - Set type for Model:OSLO-Omgevingsvergunning:Procedure:termijn to 'Tijdsduur'
